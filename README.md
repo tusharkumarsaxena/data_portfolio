@@ -15,7 +15,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 
 | Project Details | Tools | Project Description | 
 |---|---|---|
-| xx | xx | Dxx |
+|Design and implement an end-to-end data pipeline using Azure Synapse Analytics. | SQL, Azure Synapse Analytics, Spark notebooks, Synapse Link, Cosmos DB, PowerBI | The details of this projects includes the ingestion and transformation of data through Serverless SQL Pool and Spark Pool. Key steps involve the creation of dedicated SQL pools and Spark pools, loading data into dedicated SQL Pool, generating SQL scripts and Spark notebooks within Azure Synapse Analytics, enabling Synapse Link and Analytic Store in Cosmos DB, executing scripts and notebooks using Synapse Pipelines and Triggers, and finally, serving the processed data to Power BI from Serverless SQL Pool and Dedicated SQL Pool. |
 | xx | xx | xx |
 
 ***

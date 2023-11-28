@@ -6,8 +6,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 - [Data Engineering]
 - [Data Modeling]
 - [SQL]
-- [Python]
-- [Product Analytics]
+- [Customer Analytics]
 - [PowerBI]
 - [Other Sources]
 
@@ -36,13 +35,13 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | xx | xx | Dxx |
 | xx | xx | xx |
 
-***
 
-# Python
+***
+# Customer Analytics
 
 | Project Details | Tools | Project Description | 
 |---|---|---|
-| xx | xx | Dxx |
+| Survival Analysis | Python | Predicting customer churn from telecom dataset  |
 | xx | xx | xx |
 
 ***

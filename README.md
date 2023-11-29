@@ -39,9 +39,9 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 ***
 # Customer Analytics
 
-| Project Details | Tools | Project Description | 
+| Project Details | Language & Tools | Project Description | 
 |---|---|---|
-| Survival Analysis | Python | Predicting customer churn from telecom dataset  |
+| Survival Analysis | Python, Google Colab | Predicting customer churn using dataset from telecom  |
 | xx | xx | xx |
 
 ***

@@ -35,6 +35,16 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 | xx | xx | Dxx |
 | xx | xx | xx |
 
+***
+# Web Analytics
+
+| Project Details | Language & Tools | Project Description | 
+|---|---|---|
+| Pre-processing data | Python, Google Colab | Making raw data suitable for analysis  |
+| Event Journey | Python, Google Colab | Analyze trajectory taken by users from one event to the another |
+| User Journey | Python, Google Colab | Analyze path taken by users |
+| User Segments | Python, Google Colab | Understanding naturally occurring behaviour of users |
+
 
 ***
 # Customer Analytics

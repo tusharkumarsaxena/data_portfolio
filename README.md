@@ -42,7 +42,7 @@ Welcome to my projects portfolio! Here, I document a summary of my projects in t
 |---|---|---|
 | Event Journey | Python, Google Colab | Analyze trajectory taken by users from one event to the another |
 | User Journey | Python, Google Colab | Analyze path taken by users |
-| User Segments | Python, Google Colab | Grouoing users based on their naturally occurring behaviour |
+| User Segments | Python, Google Colab | Grouping users based on their naturally occurring behaviour |
 | Conversion Funnels | Python, Google Colab | Analyze how many users sequentially go through specific events (funnel stages) in their paths |
 | Cohorts | Python, Google Colab | Visualize trends of user behavior over time, isolating the impact of different interventions on different groups of users |
 
